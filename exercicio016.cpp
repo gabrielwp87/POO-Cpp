@@ -1,4 +1,4 @@
-// Exercicio016.cpp
+//Exercicio016.cpp
 //Aluno: Gabriel Wagner Piazenski
 //Esse programa tem como finalidade cumprir um exercício dado pelo professor Roland Teodorowitsch,
 //isto é, criar uma classe que possa simular o funcionamento de um elevador.
@@ -38,7 +38,7 @@ class Elevador {
 	~Elevador()	{
 		#ifdef DEBUG
 		cout << "Elevador destruído..." << endl;
-		#endif;
+		#endif
 	}
 	
 	//método entra
